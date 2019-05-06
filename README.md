@@ -13,8 +13,8 @@ Service Worker
 Clone the Github Repository.
 
 ```sh
-$ git clone https://github.com/grkrama/my-portfolio-site.git
-$ cd project1-portfolio-site
+$ git clone https://github.com/grkrama/Restaurent-Reviews-App.git
+$ cd Restaurent-Reviews-App
 ```
 
 # Kept for reference to refer later
